@@ -7,9 +7,6 @@ nav_order: 1
 # The Total ~~Myth~~ Truth of Ocean Acidification
 __*By: Maya Rajasingham*__
 
-![Before and After](https://static2.thetravelimages.com/wordpress/wp-content/uploads/2019/07/Great-Barrier-reef-before-and-after.jpg)
-*The affect of ocean acidifcaiton on the Great Barrier Reef as seen through a before (left) and after (right) comparison* (UNESCO, 2017). 
-
 ## Summary of Middleton's *The Total Myth of Ocean Acidifcaiton* 
 The main argument of this article is that ocean acidification is a term that has only recently been coined, and thus does not exist in our current reality. The author begins by claiming that the idea behind ocean acidification, that is, a relationship between atmospheric CO<sub>2</sub> and seawater pH, is not new and must have discussed in the literature prior to the onset of modern global warming (Middleton, 2018). After recounting several examples where the term ocean acidification was not found in the literature, Middleton states that only after 2003 was the term first introduced. Next, the author moves on to a discussion outlining why ocean acidification is not part of our current reality. To try and prove this claim, Middleton proceeds to explain how despite the formation of acid in our oceans, the pH of ocean water still measures above a value of seven units, thus keeping it within the basic range (Middleton, 2018). Finally, the author addresses his perceived flaws in the proposed relationship between pH and CO<sub>2</sub> levels. The current understanding is that an increase in atmospheric CO<sub>2</sub> levels would lead to a decrease in ocean water pH, given all other environmental factors were held constant (Middleton, 2018). From this understanding, Middleton draws attention to the fact that in the real world there is no such thing as holding all other environmental factors constant, questioning the claim that our oceans will become acidic. 
 
@@ -29,8 +26,6 @@ Middleton, D., 2018. The Total Myth of Ocean Acidification. [online] Watts Up Wi
 NOAA, 2021. Ocean acidification. [online] Available at: <https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification> [Accessed 5 Feb. 2021].
 
 Riebesell, U. and Gattuso, J.-P., 2015. Lessons learned from ocean acidification research. Nature Climate Change, 5(1), pp.12–14.
-
-UNESCO, 2017. Great Barrier Reef Loses ‘In Danger’ Status Despite Massive Destruction. [Photograph] (Green and Growing).
 
 US EPA, O., 2016. Understanding the Science of Ocean and Coastal Acidification. [Overviews and Factsheets] US EPA. Available at: <https://www.epa.gov/ocean-acidification/understanding-science-ocean-and-coastal-acidification> [Accessed 5 Feb. 2021].
 
