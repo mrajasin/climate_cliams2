@@ -1,9 +1,3 @@
----
-title: Ocean Acidification
-layout: default
-nav_order: 1
----
-
 # The Total ~~Myth~~ Truth of Ocean Acidification
 __*By: Maya Rajasingham*__
 
