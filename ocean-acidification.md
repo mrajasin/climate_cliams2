@@ -21,9 +21,9 @@ Hönisch, B., Ridgwell, A., Schmidt, D.N., Thomas, E., Gibbs, S.J., Sluijs, A., 
 
 Middleton, D., 2018. *The Total Myth of Ocean Acidification*. [online] Watts Up With That? Available at: <https://<span></span>wattsupwiththat.com/2018/06/05/the-total-myth-of-ocean-acidification/> [Accessed 5 Feb. 2021].
 
-NOAA, 2021. *Ocean acidification*. [online] Available at: <https://<span></span>www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification> [Accessed 5 Feb. 2021].
+NOAA, 2021. *Ocean acidification*. [online] Available at: <https://<span></span>www<span></span>.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification> [Accessed 5 Feb. 2021].
 
 Riebesell, U. and Gattuso, J.-P., 2015. Lessons learned from ocean acidification research. Nature Climate Change, 5(1), pp.12–14.
 
-US EPA, O., 2016. *Understanding the Science of Ocean and Coastal Acidification*. [Overviews and Factsheets] US EPA. Available at: <https://<span></span>www.epa.gov/ocean-acidification/understanding-science-ocean-and-coastal-acidification> [Accessed 5 Feb. 2021].
+US EPA, O., 2016. *Understanding the Science of Ocean and Coastal Acidification*. [Overviews and Factsheets] US EPA. Available at: <https://<span></span>www<span></span>.epa.gov/ocean-acidification/understanding-science-ocean-and-coastal-acidification> [Accessed 5 Feb. 2021].
 
